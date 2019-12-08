@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+hr{
+    border: dotted rgba(55, 117, 117, 0.596) 10px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+h1{
+    width: 30%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.img-cloud
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.contact-me{
+    width: 40%;
+    margin: 50px auto 150px auto;
+    line-height: 2;
+}
+.btn{
+    background-color: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border-style: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.footer-link{
+    color: #11999E;
+    margin-left: 40px;
+}
+.footercpyrgt{
+    margin-top: 70px;
+    font-size: small;
+    color: #EAF6F6;
+}
+.bottom-container
+{
+    padding-top: 30px;
+    background-color: #66BFBF;
+    height: 150px;
+}
+.profile
+{
+    margin: 50px auto 20px auto;
+    width: 30%;
+}
+.contact-msg
+{
+    color: #11999E;
+}
+.myprofilepara
+{
+    text-align: center;
+    line-height: 2;
+}
+.img-chillies
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+/* .myskillsparaleft{
+    clear: left;
+}
+.myskillspararight{
+    clear: right;
+} */
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+a{
+    color: #11999E;
+}
+a:hover{
+    color: #EAF6F6;
+}
+btn:hover{
+    background-color: #EAF6F6;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
